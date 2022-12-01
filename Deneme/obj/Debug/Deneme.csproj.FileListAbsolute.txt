@@ -1,0 +1,8 @@
+C:\Users\Furkan\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Deneme\Deneme\bin\Debug\Deneme.exe.config
+C:\Users\Furkan\source\repos\Deneme\Deneme\bin\Debug\Deneme.exe
+C:\Users\Furkan\source\repos\Deneme\Deneme\bin\Debug\Deneme.pdb
+C:\Users\Furkan\source\repos\Deneme\Deneme\obj\Debug\Deneme.exe
+C:\Users\Furkan\source\repos\Deneme\Deneme\obj\Debug\Deneme.pdb
